@@ -1,3 +1,5 @@
-const schia = function(){
-    document.querySelector(".si").innerHTML = "ciao";
+const dito  = function(){
+   let data = new Date()
+   data.innerHTML
 }
+dito()
